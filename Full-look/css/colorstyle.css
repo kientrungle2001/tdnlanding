@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+.orange{
+	color: #FF5F00;
+}
+.red{
+	color: #B10609;
+}
+.green{
+	color: #1EE300;
+}
+.violet{
+	color: #AC00E4;
+}
+.aqua{
+	color: aqua;
+}
+.blue{
+	color: #0600A3;
+}
+.white{
+	color: #fff;
+}
+.black{
+	color: #000;
+}
+.blue2{
+	color: #3C34FD;
+}
+li{
+	list-style-type: none;
+}
+.b-yellow{
+	background-color: #fff158;
+}
+.b-green{
+	background-color: #65fb82;
+}
